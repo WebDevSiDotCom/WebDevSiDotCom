@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @WebDevSiDotCom
-- 👀 I’m interested in ...
+- 👀 I’m interested in Frontend web development, and eCommerce
 - 🌱 I’m currently learning JavaScript on Scrimba and Codecademy
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: WebDevSi.com
