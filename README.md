@@ -1,4 +1,4 @@
-Welcome to my GitHub profile! I am a web developer with a passion for creating beautiful and functional websites. 
+Hello! I'm Web Dev Si, I am a web developer with a passion for creating beautiful and functional websites. 
 
 My skills include: HTML, CSS, JavaScript, various web development frameworks such as React and Angular, SQL, Python (beginner level), and I'm always learning more, currently doing a few projects with GraphQL.
 
