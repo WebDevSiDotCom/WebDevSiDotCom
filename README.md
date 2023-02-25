@@ -1,10 +1,19 @@
-Hi, I'm Web Dev Si 
+Hi 👋 I'm Web Dev Si,
 
 I am a software developer with a passion for creating beautiful, functional, and responsive websites. 
 
-My skills include: HTML, CSS, JavaScript, React, TypeScript, Angular, SQL, Python, and many more!
+My skills include: 
+✔️ HTML
+✔️ CSS 
+✔️ JavaScript 
+✔️ React
+✔️ Jest
+✔️ TypeScript 
+✔️ Angular 
+✔️ SQL 
+✔️ Python, and many more!
 
-I am always looking to expand my knowledge and improve my skills, I am currently learning GraphQL. 
+I am always looking to expand my knowledge and improve my skills, I am currently exploring GraphQL. 
 
 Feel free to take a look at my projects and let me know what you think!
 
