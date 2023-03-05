@@ -1,23 +1,33 @@
-Hi 👋 I'm Web Dev Si,
+Hi there! 👋 I'm a Software Engineer with expertise in Full Stack Apps.
 
-I am a software developer with a passion for creating beautiful, functional, and responsive websites. 
+## About Me
 
-My skills include: 
-✔️ HTML
-✔️ CSS 
-✔️ JavaScript 
-✔️ React
-✔️ Jest
-✔️ TypeScript 
-✔️ Angular 
-✔️ SQL 
-✔️ Python, and many more!
+- 🔭 I’m currently working on <Your Current Project>.
+- 🌱 I’m currently learning GraphQL.
+- 👯 I’m looking to collaborate on world changing projects.
+- 💬 Ask me about Golf (if you dare!).
+- 📫 How to reach me: WebDevSi@pm.me - or more contact info below.
 
-I am always looking to expand my knowledge and improve my skills, I am currently exploring GraphQL. 
+## Projects
 
-Feel free to take a look at my projects and let me know what you think!
+Here are a few projects I've worked on recently:
 
-You can view my portfolio at [webdevsi.com](https://webdevsi.com) (coming soon!) or contact me at [webdevsi@pm.me](mailto:webdevsi@pm.me)
+- **<Project Name>**: <Brief Project Description>. [GitHub Repo](<Link to GitHub Repo>)
+- **<Project Name>**: <Brief Project Description>. [GitHub Repo](<Link to GitHub Repo>)
+- **<Project Name>**: <Brief Project Description>. [GitHub Repo](<Link to GitHub Repo>)
+
+## Skills
+
+- Programming Languages: HTML, CSS, Javascript, SASS, Jest, SQL, Python.
+- Frameworks: React, Angular, Vue.
+- Tools & Technologies: Git, GitHub, AI.
+
+## Connect With Me
+
+- LinkedIn: (https://www.linkedin.com/in/webdevsi/)
+- Twitter: @webdevsi
+- Email: WebDevSi@pm.me
+- Personal Website: (https://webdevsi.com)
 
 <!---
 WebDevSiDotCom/WebDevSiDotCom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
