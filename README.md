@@ -1,8 +1,8 @@
-Hi there! 👋 I'm a Software Engineer with expertise in Full Stack Apps.
+Hi there! 👋 I'm Web Dev Si, a Software Engineer with a passion for easy to use, full stack applications.
 
 ## About Me
 
-- 🔭 I’m currently working on <Your Current Project>.
+- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning GraphQL.
 - 👯 I’m looking to collaborate on world changing projects.
 - 💬 Ask me about Golf (if you dare!).
