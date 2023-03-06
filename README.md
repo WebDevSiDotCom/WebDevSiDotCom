@@ -18,8 +18,8 @@ Here are a few projects I've worked on recently:
 
 ## Skills
 
-- Programming Languages: HTML, CSS, Javascript, SASS, Jest, SQL, Python.
-- Frameworks: React, Angular, Vue.
+- Programming Languages: HTML, CSS (and SASS), Javascript, SQL, Python.
+- Frameworks: React (Including Jest), , Angular, Vue.
 - Tools & Technologies: Git, GitHub, AI.
 
 ## Connect With Me
