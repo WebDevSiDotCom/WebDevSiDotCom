@@ -2,10 +2,10 @@ Hi there! 👋 I'm Web Dev Si, a Software Engineer with a passion for easy to us
 
 ## About Me
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on creating my portfolio as a React app. 
 - 🌱 I’m currently learning GraphQL.
 - 👯 I’m looking to collaborate on world changing projects.
-- 💬 Ask me about Golf (if you dare!).
+- 💬 Ask me about Golf (only if you dare!).
 - 📫 How to reach me: WebDevSi@pm.me - or more contact info below.
 
 ## Projects
@@ -19,7 +19,7 @@ Here are a few projects I've worked on recently:
 ## Skills
 
 - Programming Languages: HTML, CSS (and SASS), Javascript, SQL, Python.
-- Frameworks: React (Including Jest), , Angular, Vue.
+- Frameworks: React (Including Jest), Angular, and Vue.
 - Tools & Technologies: Git, GitHub, AI.
 
 ## Connect With Me
