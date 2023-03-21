@@ -6,7 +6,7 @@ Hi there! 👋 I'm Web Dev Si, a Software Engineer with a passion for easy to us
 - 🌱 I’m currently learning GraphQL.
 - 👯 I’m looking to collaborate on world changing projects.
 - 💬 Ask me about Golf (only if you dare!).
-- 📫 How to reach me: WebDevSi@pm.me - or more contact info below.
+- 📫 How to reach me: WebDevSi@pm.me - or see my contact info below.
 
 ## Projects
 
@@ -18,16 +18,16 @@ Here are a few projects I've worked on recently:
 
 ## Skills
 
-- Programming Languages: HTML, CSS (and SASS), Javascript, SQL, Python.
+- Programming Languages: HTML, CSS (including SASS), Javascript, SQL, Python.
 - Frameworks: React (Including Jest), Angular, and Vue.
 - Tools & Technologies: Git, GitHub, AI.
 
 ## Connect With Me
 
 - LinkedIn: (https://www.linkedin.com/in/webdevsi/)
-- Twitter: @webdevsi
+- Twitter: @webdevsi (I really need to tweet more often!)
 - Email: WebDevSi@pm.me
-- Personal Website: (https://webdevsi.com)
+- My Website: (https://webdevsi.com)
 
 <!---
 WebDevSiDotCom/WebDevSiDotCom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
