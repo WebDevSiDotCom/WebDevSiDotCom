@@ -25,7 +25,7 @@ Here are a few projects I've worked on recently:
 ## Connect With Me
 
 - LinkedIn: (https://www.linkedin.com/in/webdevsi/)
-- Twitter: @webdevsi (I really need to tweet more often!)
+- Twitter: [@webdevsi](https://twitter.com/webdevsi) (I really need to tweet more often!)
 - Email: WebDevSi@pm.me
 - My Website: (https://webdevsi.com)
 
