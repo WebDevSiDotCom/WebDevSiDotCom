@@ -10,11 +10,11 @@ Hi there! 👋 I'm Web Dev Si, a Software Engineer with a passion for easy to us
 
 ## Projects
 
-Here are a few projects I've worked on recently:
+Here are a few projects I'm working on currently:
 
-- **<Project Name>**: <Brief Project Description>. [GitHub Repo](<Link to GitHub Repo>)
-- **<Project Name>**: <Brief Project Description>. [GitHub Repo](<Link to GitHub Repo>)
-- **<Project Name>**: <Brief Project Description>. [GitHub Repo](<Link to GitHub Repo>)
+- **<Bag Builder>**: <Brief Project Description>. [GitHub Repo](<Link to GitHub Repo>)
+- **<Golf Hole Goals>**: <Brief Project Description>. [GitHub Repo](<Link to GitHub Repo>)
+- **<Golf Hols>**: <Brief Project Description>. [GitHub Repo](<Link to GitHub Repo>)
 
 ## Skills
 
