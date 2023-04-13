@@ -1,12 +1,12 @@
-Hi there! 👋 I'm Web Dev Si, a Software Engineer with a passion for creating easy to use, full stack applications.
+Hello there! 👋 I'm Web Dev Si, a Software Engineer with a passion for creating easy to use, full stack applications.
 
 ## About Me
 
-- 🔭 I’m currently working on creating my portfolio with React, and working on a few different Golf related apps. 
+- 🔭 I’m currently working on creating my portfolio with React, and working on a Golf app. 
 - 🌱 I’m currently learning GraphQL and Firebase.
 - 👯 I’m looking to collaborate on world changing projects.
-- 💬 Ask me anything about Golf, it's my main hobby (Not watching it!).
-- 📫 How to reach me: WebDevSi@pm.me - or see my contact info below.
+- 💬 Ask me anything about Golf, it's my main hobby (Although I'm not much of a fan of watching it).
+- 📫 How to reach me: WebDevSi@pm.me - or check out my contact info below.
 
 ## Projects
 
