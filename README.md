@@ -2,11 +2,11 @@ Hi! 👋 I'm Web Dev Si, a Software Engineer with a passion for creating easy to
 
 ## About Me
 
-- 🔭 I’m currently working on creating my portfolio with React, and working on a Golf app. 
-- 🌱 I’m also learning GraphQL and Firebase.
+- 🔭 I’m currently working on creating my portfolio with React, and working on a Golf app in my spare time. 
+- 🌱 I’m currently learning GraphQL and Firebase.
 - 👯 I’m looking to collaborate on world changing projects.
 - 💬 Ask me anything about Golf, it's my main hobby (Although I'm not much of a fan of watching it).
-- 📫 How to reach me: WebDevSi@pm.me - or check out my contact info below.
+- 📫 How to reach me? Check out my contact info below.
 
 ## Projects
 
@@ -26,7 +26,6 @@ Here are a few projects I'm working on currently:
 
 - LinkedIn: (https://www.linkedin.com/in/webdevsi/)
 - Twitter: [@webdevsi](https://twitter.com/webdevsi) (I really need to tweet more often!)
-- Email: WebDevSi@pm.me
 - My Website: (https://webdevsi.com)
 
 <!---
